@@ -1,0 +1,67 @@
+.tit-h2 {
+    text-align: center;
+}
+
+.sub2 {
+    display: flex;
+    height: 70px;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+
+
+.sectionindex {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+/* nuevas modificaciones en cards */
+.card {
+    background-color: #FFD4D4;
+    width: 400px;
+    height: 500px;
+    margin: 40px;
+    border: solid 2px #272727;
+}
+
+.card-img-top {
+    display: block;
+    margin: 0 auto;
+    width: 250px;
+    height: 250px;
+    padding: 10px;
+}
+
+.card1 {
+    background-color: #2B50AA;
+    width: 400px;
+    height: 500px;
+    margin: 40px;
+    border: solid 2px #272727;
+}
+
+#cards-hombres {
+    color: #ff9fe5;
+}
+
+#card-h-boton {
+    background-color: #FFD4D4;
+    color: #000;
+}
+
+/* nuevas modificaciones en cards */
+
+/* titulos de pag h y m */
+
+.titulo-Mh2 {
+    text-align: center;
+}
+
+.tituloh2 {
+    text-align: center;
+}
